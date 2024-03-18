@@ -34,6 +34,8 @@ public class Result {
         System.out.println("Testing");
     }
 
+    void qsCount(){ return 0; }
+
 }
 
     void qsTest(){
