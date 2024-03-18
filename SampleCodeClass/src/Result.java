@@ -37,5 +37,5 @@ public class Result {
 }
 
     void qsTest(){
-        System.out.println("Test");
+        
     }
